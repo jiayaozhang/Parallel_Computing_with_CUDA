@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/beginning.dir/beginning_generated_main.cu.o -o beginning  /usr/local/cuda-10.0/lib64/libcudart_static.a -ldl -lrt -lpthread 

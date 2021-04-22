@@ -1,0 +1,3 @@
+/home/zhangj0o/Documents/codefiles/cuda_learning/mallocPitch/build/CMakeFiles/edit_cache.dir
+/home/zhangj0o/Documents/codefiles/cuda_learning/mallocPitch/build/CMakeFiles/rebuild_cache.dir
+/home/zhangj0o/Documents/codefiles/cuda_learning/mallocPitch/build/CMakeFiles/mallocPitch.dir

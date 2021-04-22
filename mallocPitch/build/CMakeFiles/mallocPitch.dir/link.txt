@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mallocPitch.dir/mallocPitch_generated_main.cu.o -o mallocPitch  /usr/local/cuda-10.0/lib64/libcudart_static.a -ldl -lrt -lpthread 
