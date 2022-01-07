@@ -6,3 +6,10 @@
 课程主页（大纲，课件）：https://sites.google.com/lbl.gov/cs267-spr2018/
 
 videos: https://www.bilibili.com/video/BV1qV411q7RS?p=4&t=5106
+
+
+## CUDA Master
+
+Videos: https://www.bilibili.com/video/av90876895
+
+
