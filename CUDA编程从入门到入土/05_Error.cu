@@ -3,7 +3,7 @@
 
 int main()
 {
-	const int N = -1;
+	const int N = -2;
     int *a;
     cudaMallocManaged(&a, N * sizeof(int));
 
