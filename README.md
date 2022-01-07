@@ -13,3 +13,6 @@ videos: https://www.bilibili.com/video/BV1qV411q7RS?p=4&t=5106
 Videos: https://www.bilibili.com/video/av90876895
 
 
+## cuda编程从入门到入土
+
+https://space.bilibili.com/1219049799/channel/collectiondetail?sid=51545
